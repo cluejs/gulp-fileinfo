@@ -3,7 +3,7 @@ File informer for gulp.js based on gulp-size
 
 #### Install:
 ```
-npm i cluejs/gulp-fileinfo
+npm i cluejs/gulp-fileinfo --save-dev
 ```
 
 #### Usage:
