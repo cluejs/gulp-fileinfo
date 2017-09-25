@@ -1,6 +1,6 @@
 {
   "name": "@cluejs/gulp-fileinfo",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "File informer for gulp.js based on gulp-size",
   "main": "index.js",
   "scripts": {},
