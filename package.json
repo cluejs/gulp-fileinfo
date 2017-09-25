@@ -1,18 +1,16 @@
 {
-  "name": "gulp-fileinfo",
-  "version": "1.0.1",
+  "name": "@cluejs/gulp-fileinfo",
+  "version": "1.2.0",
   "description": "File informer for gulp.js based on gulp-size",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
+  "keywords": [],
+  "author": "demian_dark",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cluejs/gulp-fileinfo.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/cluejs/gulp-fileinfo/issues"
   },
