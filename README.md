@@ -8,7 +8,7 @@ npm i cluejs/gulp-fileinfo --save-dev
 
 #### Usage:
 ```javascript
-$$.gulp_fileinfo = require('@cluejsgulp-fileinfo');
+$$.gulp_fileinfo = require('@cluejs/gulp-fileinfo');
 ...
     .pipe($$.gulp_fileinfo({}))
 ...
